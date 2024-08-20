@@ -1,1 +1,5 @@
-memla. -  .- c.d zc:
+if __name__ = "__main__":
+    main()
+
+def main():
+    print("hola mundo!")
